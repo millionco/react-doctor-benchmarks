@@ -35,11 +35,12 @@ git am /path/to/0001-leaderboard.patch
 git push -u origin cursor/leaderboard-from-benchmarks
 ```
 
-The patch is a `git format-patch` series with four logical commits:
+The patch is a `git format-patch` series with five logical commits:
 
 1. `feat(scripts): sync leaderboard data from react-doctor-benchmarks`
 2. `docs(react-doctor): add leaderboard section synced via CI`
 3. `feat(website): add /leaderboard page`
 4. `ci: refresh leaderboard from react-doctor-benchmarks`
+5. `chore: drop bench:scores in favor of the synced leaderboard`
 
 After pushing, open a PR against `millionco/react-doctor:main`.
