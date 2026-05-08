@@ -839,7 +839,7 @@ index 0000000..90e07b8
 2.43.0
 
 
-From 22683c87422ca2af29c7c85d5e10058de3b6189e Mon Sep 17 00:00:00 2001
+From 37fbd493f199a21abedda899cdef07b27105bc90 Mon Sep 17 00:00:00 2001
 From: Cursor Agent <cursoragent@cursor.com>
 Date: Fri, 8 May 2026 11:11:32 +0000
 Subject: [PATCH 4/5] ci: refresh leaderboard from react-doctor-benchmarks
@@ -848,16 +848,16 @@ Daily scheduled workflow (plus manual + repository_dispatch triggers)
 that runs scripts/sync-leaderboard.ts. When the README block or the
 website data file change, it commits the result back to the branch.
 ---
- .github/workflows/refresh-leaderboard.yml | 43 +++++++++++++++++++++++
- 1 file changed, 43 insertions(+)
+ .github/workflows/refresh-leaderboard.yml | 50 +++++++++++++++++++++++
+ 1 file changed, 50 insertions(+)
  create mode 100644 .github/workflows/refresh-leaderboard.yml
 
 diff --git a/.github/workflows/refresh-leaderboard.yml b/.github/workflows/refresh-leaderboard.yml
 new file mode 100644
-index 0000000..094d6b3
+index 0000000..5748434
 --- /dev/null
 +++ b/.github/workflows/refresh-leaderboard.yml
-@@ -0,0 +1,43 @@
+@@ -0,0 +1,50 @@
 +name: refresh leaderboard
 +
 +on:
@@ -876,16 +876,23 @@ index 0000000..094d6b3
 +    runs-on: ubuntu-latest
 +    permissions:
 +      contents: write
-+      pull-requests: write
 +    steps:
 +      - uses: actions/checkout@v5
++
++      - uses: pnpm/action-setup@v4
 +
 +      - uses: actions/setup-node@v4
 +        with:
 +          node-version: 24
++          cache: pnpm
++
++      - run: pnpm install --frozen-lockfile
 +
 +      - name: sync leaderboard data into README and website
 +        run: node --experimental-strip-types scripts/sync-leaderboard.ts
++
++      - name: format the rewritten files
++        run: pnpm format
 +
 +      - name: commit and push if changed
 +        env:
@@ -905,9 +912,9 @@ index 0000000..094d6b3
 2.43.0
 
 
-From 35e67342a88fed3d5490f31e210747623a05a0e8 Mon Sep 17 00:00:00 2001
+From 19ccf864f1d978f5a2c7a52a7cbdb8590ae2296d Mon Sep 17 00:00:00 2001
 From: Cursor Agent <cursoragent@cursor.com>
-Date: Fri, 8 May 2026 11:15:01 +0000
+Date: Fri, 8 May 2026 11:18:33 +0000
 Subject: [PATCH 5/5] chore: drop bench:scores in favor of the synced
  leaderboard
 
