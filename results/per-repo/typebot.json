@@ -4,8 +4,8 @@
   "name": "typebot",
   "githubUrl": "https://github.com/baptisteArno/typebot.io",
   "ref": "HEAD",
-  "commitSha": "85eb843c420e2a3d4f1e4a3ed6f1b71bd6d3bea9",
-  "scannedAt": "2026-05-11T07:31:53.558Z",
+  "commitSha": "77fd228c9612359af36d9cb12bd923bb463cc627",
+  "scannedAt": "2026-05-18T07:43:12.397Z",
   "doctorVersion": "0.1.6",
   "score": 57,
   "scoreLabel": "Needs work",
@@ -13,12 +13,12 @@
   "warningCount": 382,
   "affectedFileCount": 206,
   "totalDiagnosticCount": 386,
-  "scanElapsedMs": 7373,
+  "scanElapsedMs": 8095,
   "install": {
     "attempted": true,
     "success": true,
     "packageManager": "bun",
-    "durationMs": 17104
+    "durationMs": 17914
   },
   "skipDeadCode": false,
   "status": "ok",

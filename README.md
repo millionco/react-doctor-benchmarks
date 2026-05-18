@@ -10,35 +10,35 @@ The scores below are produced by GitHub Actions on a weekly cron (and on demand)
 
 | Rank | Project | Score | Errors | Warnings | Files | Commit |
 |-----:|---------|:-----:|------:|--------:|------:|:------:|
-| 1 | [executor](https://github.com/RhysSullivan/executor) | 🟢 `███████████████████░` **94**/100 | 3 | 10 | 8 | `8de3f4c` |
-| 2 | [nodejs.org](https://github.com/nodejs/nodejs.org) | 🟢 `█████████████████░░░` **86**/100 | 0 | 196 | 179 | `125b760` |
-| 3 | [tldraw](https://github.com/tldraw/tldraw) | 🟡 `██████████████░░░░░░` **70**/100 | 7 | 145 | 76 | `8d2c9d8` |
-| 4 | [t3code](https://github.com/pingdotgg/t3code) | 🟡 `██████████████░░░░░░` **68**/100 | 0 | 765 | 256 | `6ab8f93` |
-| 5 | [better-auth](https://github.com/better-auth/better-auth) | 🟡 `█████████████░░░░░░░` **64**/100 | 0 | 628 | 266 | `e21d744` |
-| 6 | [excalidraw](https://github.com/excalidraw/excalidraw) | 🟡 `█████████████░░░░░░░` **63**/100 | 1 | 555 | 177 | `b2b2815` |
-| 7 | [mastra](https://github.com/mastra-ai/mastra) | 🟡 `█████████████░░░░░░░` **63**/100 | 23 | 468 | 207 | `98c37f3` |
-| 8 | [payload](https://github.com/payloadcms/payload) | 🟡 `████████████░░░░░░░░` **60**/100 | 4 | 768 | 424 | `419a8e3` |
-| 9 | [typebot](https://github.com/baptisteArno/typebot.io) | 🟡 `███████████░░░░░░░░░` **57**/100 | 4 | 382 | 206 | `85eb843` |
-| 10 | [plane](https://github.com/makeplane/plane) | 🟡 `███████████░░░░░░░░░` **56**/100 | 9 | 1944 | 833 | `4c1bdd1` |
-| 11 | [medusajs/admin](https://github.com/medusajs/medusa) | 🟡 `███████████░░░░░░░░░` **56**/100 | 10 | 591 | 247 | `456b06f` |
-| 12 | [rocket.chat](https://github.com/RocketChat/Rocket.Chat) | 🟡 `██████████░░░░░░░░░░` **51**/100 | 57 | 2178 | 969 | `c7de992` |
-| 13 | [twenty](https://github.com/twentyhq/twenty) | 🔴 `██████████░░░░░░░░░░` **48**/100 | 85 | 1833 | 1242 | `c810199` |
-| 14 | [unkey](https://github.com/unkeyed/unkey) | 🔴 `██████████░░░░░░░░░░` **48**/100 | 27 | 968 | 381 | `c262a0e` |
-| 15 | [shadcn/ui](https://github.com/shadcn-ui/ui) | 🔴 `█████████░░░░░░░░░░░` **46**/100 | 15 | 2349 | 1014 | `8ca30ed` |
-| 16 | [trigger.dev](https://github.com/triggerdotdev/trigger.dev) | 🔴 `████████░░░░░░░░░░░░` **42**/100 | 37 | 1943 | 593 | `567e2a2` |
-| 17 | [formbricks](https://github.com/formbricks/formbricks) | 🔴 `████████░░░░░░░░░░░░` **41**/100 | 11 | 4056 | 811 | `1d18b5c` |
-| 18 | [langfuse](https://github.com/langfuse/langfuse) | 🔴 `███████░░░░░░░░░░░░░` **36**/100 | 27 | 3176 | 854 | `c1af23a` |
-| 19 | [tooljet](https://github.com/ToolJet/ToolJet) | 🔴 `███████░░░░░░░░░░░░░` **33**/100 | 190 | 5976 | 1459 | `f33ff86` |
+| 1 | [executor](https://github.com/RhysSullivan/executor) | 🟢 `███████████████████░` **96**/100 | 0 | 12 | 8 | `529a54f` |
+| 2 | [nodejs.org](https://github.com/nodejs/nodejs.org) | 🟢 `█████████████████░░░` **86**/100 | 0 | 197 | 181 | `93fba76` |
+| 3 | [tldraw](https://github.com/tldraw/tldraw) | 🟡 `██████████████░░░░░░` **71**/100 | 7 | 146 | 76 | `d49babc` |
+| 4 | [t3code](https://github.com/pingdotgg/t3code) | 🟡 `██████████████░░░░░░` **69**/100 | 0 | 753 | 255 | `d1e85c4` |
+| 5 | [better-auth](https://github.com/better-auth/better-auth) | 🟡 `█████████████░░░░░░░` **64**/100 | 0 | 628 | 266 | `e637c7d` |
+| 6 | [mastra](https://github.com/mastra-ai/mastra) | 🟡 `█████████████░░░░░░░` **63**/100 | 23 | 499 | 215 | `ca6a039` |
+| 7 | [excalidraw](https://github.com/excalidraw/excalidraw) | 🟡 `████████████░░░░░░░░` **62**/100 | 1 | 558 | 179 | `f6d85bc` |
+| 8 | [payload](https://github.com/payloadcms/payload) | 🟡 `████████████░░░░░░░░` **60**/100 | 4 | 766 | 424 | `d6b2d73` |
+| 9 | [typebot](https://github.com/baptisteArno/typebot.io) | 🟡 `███████████░░░░░░░░░` **57**/100 | 4 | 382 | 206 | `77fd228` |
+| 10 | [medusajs/admin](https://github.com/medusajs/medusa) | 🟡 `███████████░░░░░░░░░` **56**/100 | 10 | 591 | 247 | `25d82f3` |
+| 11 | [plane](https://github.com/makeplane/plane) | 🟡 `███████████░░░░░░░░░` **55**/100 | 9 | 1947 | 833 | `50a7b47` |
+| 12 | [rocket.chat](https://github.com/RocketChat/Rocket.Chat) | 🟡 `██████████░░░░░░░░░░` **51**/100 | 55 | 2191 | 968 | `80b0f14` |
+| 13 | [twenty](https://github.com/twentyhq/twenty) | 🔴 `██████████░░░░░░░░░░` **48**/100 | 83 | 1835 | 1242 | `62b347f` |
+| 14 | [unkey](https://github.com/unkeyed/unkey) | 🔴 `██████████░░░░░░░░░░` **48**/100 | 27 | 975 | 385 | `e6bae5f` |
+| 15 | [shadcn/ui](https://github.com/shadcn-ui/ui) | 🔴 `█████████░░░░░░░░░░░` **46**/100 | 15 | 2350 | 1014 | `c9930b7` |
+| 16 | [trigger.dev](https://github.com/triggerdotdev/trigger.dev) | 🔴 `████████░░░░░░░░░░░░` **42**/100 | 37 | 2047 | 626 | `55fa2d4` |
+| 17 | [formbricks](https://github.com/formbricks/formbricks) | 🔴 `████████░░░░░░░░░░░░` **38**/100 | 11 | 4623 | 913 | `c172e2a` |
+| 18 | [langfuse](https://github.com/langfuse/langfuse) | 🔴 `███████░░░░░░░░░░░░░` **36**/100 | 23 | 3180 | 854 | `352cdf3` |
+| 19 | [tooljet](https://github.com/ToolJet/ToolJet) | 🔴 `███████░░░░░░░░░░░░░` **33**/100 | 190 | 5982 | 1459 | `4426a21` |
 | 20 | [onlook](https://github.com/onlook-dev/onlook) | 🔴 `██████░░░░░░░░░░░░░░` **32**/100 | 65 | 2034 | 416 | `a242be5` |
-| 21 | [cal.com](https://github.com/calcom/cal.com) | 🔴 `██████░░░░░░░░░░░░░░` **32**/100 | 43 | 1582 | 425 | `fb01494` |
-| 22 | [posthog](https://github.com/PostHog/posthog) | 🔴 `██████░░░░░░░░░░░░░░` **31**/100 | 682 | 5440 | 1857 | `1be458f` |
-| 23 | [appsmith](https://github.com/appsmithorg/appsmith) | 🔴 `██████░░░░░░░░░░░░░░` **31**/100 | 145 | 2450 | 1314 | `893572e` |
-| 24 | [supabase](https://github.com/supabase/supabase) | 🔴 `██████░░░░░░░░░░░░░░` **30**/100 | 52 | 3305 | 1315 | `95d1e8a` |
-| 25 | [sentry](https://github.com/getsentry/sentry) | 🔴 `██████░░░░░░░░░░░░░░` **30**/100 | 179 | 3194 | 1650 | `31da780` |
-| 26 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 🔴 `██████░░░░░░░░░░░░░░` **29**/100 | 294 | 6606 | 1641 | `79ed4b5` |
-| 27 | [dub](https://github.com/dubinc/dub) | 🔴 `█████░░░░░░░░░░░░░░░` **25**/100 | 59 | 3367 | 1213 | `3d450c5` |
+| 21 | [cal.com](https://github.com/calcom/cal.com) | 🔴 `██████░░░░░░░░░░░░░░` **31**/100 | 43 | 1584 | 425 | `180ede2` |
+| 22 | [sentry](https://github.com/getsentry/sentry) | 🔴 `██████░░░░░░░░░░░░░░` **30**/100 | 181 | 3258 | 1679 | `e2424fd` |
+| 23 | [appsmith](https://github.com/appsmithorg/appsmith) | 🔴 `██████░░░░░░░░░░░░░░` **30**/100 | 144 | 2455 | 1315 | `a128a3e` |
+| 24 | [posthog](https://github.com/PostHog/posthog) | 🔴 `██████░░░░░░░░░░░░░░` **29**/100 | 684 | 5511 | 1871 | `4885123` |
+| 25 | [supabase](https://github.com/supabase/supabase) | 🔴 `██████░░░░░░░░░░░░░░` **28**/100 | 53 | 3312 | 1317 | `bde9d53` |
+| 26 | [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 🔴 `██████░░░░░░░░░░░░░░` **28**/100 | 294 | 6833 | 1683 | `519e755` |
+| 27 | [dub](https://github.com/dubinc/dub) | 🔴 `█████░░░░░░░░░░░░░░░` **24**/100 | 61 | 3418 | 1232 | `c4706da` |
 
-<sub>Last updated <strong>2026-05-11T07:33:40.103Z</strong> · react-doctor `0.1.6` · 27 scored, 0 skipped/failed · raw results in [`results/latest.json`](results/latest.json)</sub>
+<sub>Last updated <strong>2026-05-18T07:44:21.969Z</strong> · react-doctor `0.1.6` · 27 scored, 0 skipped/failed · raw results in [`results/latest.json`](results/latest.json)</sub>
 
 <!-- LEADERBOARD:END -->
 

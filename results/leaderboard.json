@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-11T07:33:40.103Z",
+  "generatedAt": "2026-05-18T07:44:21.969Z",
   "doctorVersion": "0.1.6",
   "source": {
     "repo": "millionco/react-doctor-benchmarks",
@@ -13,12 +13,12 @@
       "name": "executor",
       "githubUrl": "https://github.com/RhysSullivan/executor",
       "packageName": "@executor-js/local",
-      "score": 94,
-      "errorCount": 3,
-      "warningCount": 10,
+      "score": 96,
+      "errorCount": 0,
+      "warningCount": 12,
       "fileCount": 8,
-      "commitSha": "8de3f4c01da9eac9018445f655e6064e5758a502",
-      "scannedAt": "2026-05-11T07:31:57.234Z"
+      "commitSha": "529a54fe43cbc3ac0d358fcbb0eb0520d90cb2a1",
+      "scannedAt": "2026-05-18T07:43:22.080Z"
     },
     {
       "slug": "nodejs-org",
@@ -27,34 +27,34 @@
       "packageName": "@node-core/website",
       "score": 86,
       "errorCount": 0,
-      "warningCount": 196,
-      "fileCount": 179,
-      "commitSha": "125b760694fd99bf482aa2819965cd992cbfbf56",
-      "scannedAt": "2026-05-11T07:31:01.566Z"
+      "warningCount": 197,
+      "fileCount": 181,
+      "commitSha": "93fba76debe81190decd0a1ded46e6e004bda62c",
+      "scannedAt": "2026-05-18T07:42:27.667Z"
     },
     {
       "slug": "tldraw",
       "name": "tldraw",
       "githubUrl": "https://github.com/tldraw/tldraw",
       "packageName": "tldraw",
-      "score": 70,
+      "score": 71,
       "errorCount": 7,
-      "warningCount": 145,
+      "warningCount": 146,
       "fileCount": 76,
-      "commitSha": "8d2c9d8168b6eaa6db26b61fb5ba2995ded96eb2",
-      "scannedAt": "2026-05-11T07:30:10.015Z"
+      "commitSha": "d49babc6b87f48f10c17f9f23cdd4143c719eb6d",
+      "scannedAt": "2026-05-18T07:41:28.692Z"
     },
     {
       "slug": "t3code",
       "name": "t3code",
       "githubUrl": "https://github.com/pingdotgg/t3code",
       "packageName": "@t3tools/web",
-      "score": 68,
+      "score": 69,
       "errorCount": 0,
-      "warningCount": 765,
-      "fileCount": 256,
-      "commitSha": "6ab8f93a23465d0d92e55d2a9173307fa2295d9c",
-      "scannedAt": "2026-05-11T07:31:50.662Z"
+      "warningCount": 753,
+      "fileCount": 255,
+      "commitSha": "d1e85c4e8fdef82fbaded9539532b754080419e0",
+      "scannedAt": "2026-05-18T07:43:13.729Z"
     },
     {
       "slug": "better-auth",
@@ -65,20 +65,8 @@
       "errorCount": 0,
       "warningCount": 628,
       "fileCount": 266,
-      "commitSha": "e21d744987476c20a934c79ef226fe6a5f468e22",
-      "scannedAt": "2026-05-11T07:32:14.819Z"
-    },
-    {
-      "slug": "excalidraw",
-      "name": "excalidraw",
-      "githubUrl": "https://github.com/excalidraw/excalidraw",
-      "packageName": "@excalidraw/excalidraw",
-      "score": 63,
-      "errorCount": 1,
-      "warningCount": 555,
-      "fileCount": 177,
-      "commitSha": "b2b2815954f6561f0980bef8997750dabec16e87",
-      "scannedAt": "2026-05-11T07:30:57.024Z"
+      "commitSha": "e637c7d8ffc63fec8f7a27e0a0384842058a8ca9",
+      "scannedAt": "2026-05-18T07:43:30.405Z"
     },
     {
       "slug": "mastra",
@@ -87,10 +75,22 @@
       "packageName": "@mastra/playground-ui",
       "score": 63,
       "errorCount": 23,
-      "warningCount": 468,
-      "fileCount": 207,
-      "commitSha": "98c37f3408053d438fbd6b517ee6ace92022175c",
-      "scannedAt": "2026-05-11T07:33:08.914Z"
+      "warningCount": 499,
+      "fileCount": 215,
+      "commitSha": "ca6a0395ac6b9248a4720b27becf0932edb18be9",
+      "scannedAt": "2026-05-18T07:43:57.401Z"
+    },
+    {
+      "slug": "excalidraw",
+      "name": "excalidraw",
+      "githubUrl": "https://github.com/excalidraw/excalidraw",
+      "packageName": "@excalidraw/excalidraw",
+      "score": 62,
+      "errorCount": 1,
+      "warningCount": 558,
+      "fileCount": 179,
+      "commitSha": "f6d85bc80fe328e8f472636eb0d541f7bb891aa0",
+      "scannedAt": "2026-05-18T07:42:17.369Z"
     },
     {
       "slug": "payload",
@@ -99,10 +99,10 @@
       "packageName": "@payloadcms/ui",
       "score": 60,
       "errorCount": 4,
-      "warningCount": 768,
+      "warningCount": 766,
       "fileCount": 424,
-      "commitSha": "419a8e333106c76ded9f6944f2e1c2a0be92edb1",
-      "scannedAt": "2026-05-11T07:30:48.308Z"
+      "commitSha": "d6b2d738ca2d5113b4a0b03cebb4c0883aabc8e9",
+      "scannedAt": "2026-05-18T07:42:10.038Z"
     },
     {
       "slug": "typebot",
@@ -113,20 +113,8 @@
       "errorCount": 4,
       "warningCount": 382,
       "fileCount": 206,
-      "commitSha": "85eb843c420e2a3d4f1e4a3ed6f1b71bd6d3bea9",
-      "scannedAt": "2026-05-11T07:31:53.558Z"
-    },
-    {
-      "slug": "plane",
-      "name": "plane",
-      "githubUrl": "https://github.com/makeplane/plane",
-      "packageName": "web",
-      "score": 56,
-      "errorCount": 9,
-      "warningCount": 1944,
-      "fileCount": 833,
-      "commitSha": "4c1bdd1d625fa3f1141e8af9c15423946472069e",
-      "scannedAt": "2026-05-11T07:30:12.835Z"
+      "commitSha": "77fd228c9612359af36d9cb12bd923bb463cc627",
+      "scannedAt": "2026-05-18T07:43:12.397Z"
     },
     {
       "slug": "medusa-admin",
@@ -137,8 +125,20 @@
       "errorCount": 10,
       "warningCount": 591,
       "fileCount": 247,
-      "commitSha": "456b06f7d3b3cb332120aa2c84dca4140aa6dd2e",
-      "scannedAt": "2026-05-11T07:31:33.415Z"
+      "commitSha": "25d82f3eee65dd5930ace45de0c3f5e68207733f",
+      "scannedAt": "2026-05-18T07:43:01.855Z"
+    },
+    {
+      "slug": "plane",
+      "name": "plane",
+      "githubUrl": "https://github.com/makeplane/plane",
+      "packageName": "web",
+      "score": 55,
+      "errorCount": 9,
+      "warningCount": 1947,
+      "fileCount": 833,
+      "commitSha": "50a7b47b31d46b8525a680bc778b420802c14bce",
+      "scannedAt": "2026-05-18T07:41:48.541Z"
     },
     {
       "slug": "rocket-chat",
@@ -146,11 +146,11 @@
       "githubUrl": "https://github.com/RocketChat/Rocket.Chat",
       "packageName": "@rocket.chat/meteor",
       "score": 51,
-      "errorCount": 57,
-      "warningCount": 2178,
-      "fileCount": 969,
-      "commitSha": "c7de992066035ee58b8445e7ce5f126f13001f75",
-      "scannedAt": "2026-05-11T07:31:57.837Z"
+      "errorCount": 55,
+      "warningCount": 2191,
+      "fileCount": 968,
+      "commitSha": "80b0f143e109fffc10aa24a860fa2ab476308a9b",
+      "scannedAt": "2026-05-18T07:43:03.248Z"
     },
     {
       "slug": "twenty",
@@ -158,11 +158,11 @@
       "githubUrl": "https://github.com/twentyhq/twenty",
       "packageName": "twenty-front",
       "score": 48,
-      "errorCount": 85,
-      "warningCount": 1833,
+      "errorCount": 83,
+      "warningCount": 1835,
       "fileCount": 1242,
-      "commitSha": "c81019965dadf256b3fe789e73fc31b2b8100b8c",
-      "scannedAt": "2026-05-11T07:30:21.900Z"
+      "commitSha": "62b347fc743fbd28d558b02ab0d47fac04095816",
+      "scannedAt": "2026-05-18T07:41:39.565Z"
     },
     {
       "slug": "unkey",
@@ -171,10 +171,10 @@
       "packageName": "@unkey/dashboard",
       "score": 48,
       "errorCount": 27,
-      "warningCount": 968,
-      "fileCount": 381,
-      "commitSha": "c262a0e47a98ca01862e98105af9427d6a7d36b6",
-      "scannedAt": "2026-05-11T07:31:16.466Z"
+      "warningCount": 975,
+      "fileCount": 385,
+      "commitSha": "e6bae5f445918e61a40f70f2030f8107ef1cb0d1",
+      "scannedAt": "2026-05-18T07:42:29.614Z"
     },
     {
       "slug": "shadcn-ui",
@@ -183,10 +183,10 @@
       "packageName": "v4",
       "score": 46,
       "errorCount": 15,
-      "warningCount": 2349,
+      "warningCount": 2350,
       "fileCount": 1014,
-      "commitSha": "8ca30ed32cc1d8971bc0902ccf3b14abe71abbb9",
-      "scannedAt": "2026-05-11T07:31:18.509Z"
+      "commitSha": "c9930b7fdaedec8ae1f41b9090f7316b6a491745",
+      "scannedAt": "2026-05-18T07:42:40.556Z"
     },
     {
       "slug": "trigger-dev",
@@ -195,22 +195,22 @@
       "packageName": "webapp",
       "score": 42,
       "errorCount": 37,
-      "warningCount": 1943,
-      "fileCount": 593,
-      "commitSha": "567e2a2c3207b7c01133f81caf5c7bdb86651306",
-      "scannedAt": "2026-05-11T07:31:52.319Z"
+      "warningCount": 2047,
+      "fileCount": 626,
+      "commitSha": "55fa2d4967ea97beae477cf2dbb33627f3626857",
+      "scannedAt": "2026-05-18T07:43:22.118Z"
     },
     {
       "slug": "formbricks",
       "name": "formbricks",
       "githubUrl": "https://github.com/formbricks/formbricks",
       "packageName": "@formbricks/web",
-      "score": 41,
+      "score": 38,
       "errorCount": 11,
-      "warningCount": 4056,
-      "fileCount": 811,
-      "commitSha": "1d18b5cb8392f05eaa19af48c2a9e89bad089b22",
-      "scannedAt": "2026-05-11T07:30:28.225Z"
+      "warningCount": 4623,
+      "fileCount": 913,
+      "commitSha": "c172e2a33cc13784690fe10dbb55e47039875190",
+      "scannedAt": "2026-05-18T07:41:56.528Z"
     },
     {
       "slug": "langfuse",
@@ -218,11 +218,11 @@
       "githubUrl": "https://github.com/langfuse/langfuse",
       "packageName": "web",
       "score": 36,
-      "errorCount": 27,
-      "warningCount": 3176,
+      "errorCount": 23,
+      "warningCount": 3180,
       "fileCount": 854,
-      "commitSha": "c1af23ac2992424bc180ac375a60af365db2dde8",
-      "scannedAt": "2026-05-11T07:31:26.524Z"
+      "commitSha": "352cdf323ff8d1a9e21dd8925bf0580bb82eb447",
+      "scannedAt": "2026-05-18T07:42:47.073Z"
     },
     {
       "slug": "tooljet",
@@ -231,10 +231,10 @@
       "packageName": "tooljet",
       "score": 33,
       "errorCount": 190,
-      "warningCount": 5976,
+      "warningCount": 5982,
       "fileCount": 1459,
-      "commitSha": "f33ff86cbb2c5a1bc3ff7d62ff4fc6ab00e8358b",
-      "scannedAt": "2026-05-11T07:32:19.081Z"
+      "commitSha": "4426a21421e4a3df668b19ab656734a64a228f8d",
+      "scannedAt": "2026-05-18T07:43:37.492Z"
     },
     {
       "slug": "onlook",
@@ -246,55 +246,19 @@
       "warningCount": 2034,
       "fileCount": 416,
       "commitSha": "a242be584fa9c71ca5be9e5e7a2640595c4200be",
-      "scannedAt": "2026-05-11T07:30:18.143Z"
+      "scannedAt": "2026-05-18T07:41:47.459Z"
     },
     {
       "slug": "cal-com",
       "name": "cal.com",
       "githubUrl": "https://github.com/calcom/cal.com",
       "packageName": "@calcom/web",
-      "score": 32,
+      "score": 31,
       "errorCount": 43,
-      "warningCount": 1582,
+      "warningCount": 1584,
       "fileCount": 425,
-      "commitSha": "fb0149453e97a047f44ec21e99f9d8af420d8365",
-      "scannedAt": "2026-05-11T07:30:38.695Z"
-    },
-    {
-      "slug": "posthog",
-      "name": "posthog",
-      "githubUrl": "https://github.com/PostHog/posthog",
-      "packageName": "@posthog/frontend",
-      "score": 31,
-      "errorCount": 682,
-      "warningCount": 5440,
-      "fileCount": 1857,
-      "commitSha": "1be458ffd2d73d13ec35d95fcc8bb7ec118e2a45",
-      "scannedAt": "2026-05-11T07:31:08.178Z"
-    },
-    {
-      "slug": "appsmith",
-      "name": "appsmith",
-      "githubUrl": "https://github.com/appsmithorg/appsmith",
-      "packageName": "appsmith",
-      "score": 31,
-      "errorCount": 145,
-      "warningCount": 2450,
-      "fileCount": 1314,
-      "commitSha": "893572e175c7557bbdb1d19ffd2002aee0deebd6",
-      "scannedAt": "2026-05-11T07:31:49.457Z"
-    },
-    {
-      "slug": "supabase",
-      "name": "supabase",
-      "githubUrl": "https://github.com/supabase/supabase",
-      "packageName": "studio",
-      "score": 30,
-      "errorCount": 52,
-      "warningCount": 3305,
-      "fileCount": 1315,
-      "commitSha": "95d1e8abe8b2c946057d8d84b8824a5cdd14e2fe",
-      "scannedAt": "2026-05-11T07:30:51.189Z"
+      "commitSha": "180ede28f0bddf2738933a6e60a8e80f6116d7da",
+      "scannedAt": "2026-05-18T07:42:03.367Z"
     },
     {
       "slug": "sentry",
@@ -302,35 +266,71 @@
       "githubUrl": "https://github.com/getsentry/sentry",
       "packageName": "sentry",
       "score": 30,
-      "errorCount": 179,
-      "warningCount": 3194,
-      "fileCount": 1650,
-      "commitSha": "31da7806a0ab6f73de7e7c36f9ebdd73fc20157c",
-      "scannedAt": "2026-05-11T07:30:13.926Z"
+      "errorCount": 181,
+      "warningCount": 3258,
+      "fileCount": 1679,
+      "commitSha": "e2424fdc19f990f5213d3ebb3809392266549b34",
+      "scannedAt": "2026-05-18T07:41:44.678Z"
+    },
+    {
+      "slug": "appsmith",
+      "name": "appsmith",
+      "githubUrl": "https://github.com/appsmithorg/appsmith",
+      "packageName": "appsmith",
+      "score": 30,
+      "errorCount": 144,
+      "warningCount": 2455,
+      "fileCount": 1315,
+      "commitSha": "a128a3e1dff9a477d21d465f12f07b6ea9caeb72",
+      "scannedAt": "2026-05-18T07:43:07.074Z"
+    },
+    {
+      "slug": "posthog",
+      "name": "posthog",
+      "githubUrl": "https://github.com/PostHog/posthog",
+      "packageName": "@posthog/frontend",
+      "score": 29,
+      "errorCount": 684,
+      "warningCount": 5511,
+      "fileCount": 1871,
+      "commitSha": "4885123294346f3d91e2235f7fe5f14b22b52364",
+      "scannedAt": "2026-05-18T07:42:22.679Z"
+    },
+    {
+      "slug": "supabase",
+      "name": "supabase",
+      "githubUrl": "https://github.com/supabase/supabase",
+      "packageName": "studio",
+      "score": 28,
+      "errorCount": 53,
+      "warningCount": 3312,
+      "fileCount": 1317,
+      "commitSha": "bde9d536ba2b6ac0932e33d402cc9fa42d2eac41",
+      "scannedAt": "2026-05-18T07:42:24.655Z"
     },
     {
       "slug": "lobe-chat",
       "name": "lobehub/lobe-chat",
       "githubUrl": "https://github.com/lobehub/lobe-chat",
       "packageName": "lobehub/lobe-chat",
-      "score": 29,
+      "score": 28,
       "errorCount": 294,
-      "warningCount": 6606,
-      "fileCount": 1641,
-      "commitSha": "79ed4b5faf97db240503fae5300b46d92ce520a0",
-      "scannedAt": "2026-05-11T07:31:09.738Z"
+      "warningCount": 6833,
+      "fileCount": 1683,
+      "commitSha": "519e755aff91fad7f3045738c102de74165bae20",
+      "scannedAt": "2026-05-18T07:42:42.704Z"
     },
     {
       "slug": "dub",
       "name": "dub",
       "githubUrl": "https://github.com/dubinc/dub",
       "packageName": "web",
-      "score": 25,
-      "errorCount": 59,
-      "warningCount": 3367,
-      "fileCount": 1213,
-      "commitSha": "3d450c5d54e112b9b226a191fd55a8ecd66ecfda",
-      "scannedAt": "2026-05-11T07:31:08.078Z"
+      "score": 24,
+      "errorCount": 61,
+      "warningCount": 3418,
+      "fileCount": 1232,
+      "commitSha": "c4706daba362a3d557cff3b2dc163a8d65f2c29e",
+      "scannedAt": "2026-05-18T07:42:34.849Z"
     }
   ]
 }
