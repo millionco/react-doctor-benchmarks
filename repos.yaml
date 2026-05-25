@@ -186,3 +186,11 @@ repos:
     notes: |
       Mastra's React UI library — the playground-ui package ships the
       actual components rendered in the Mastra dev playground.
+
+  - slug: HLBuilder
+    name: HLBuilder
+    githubUrl: https://github.com/Butterski/homelab-builder
+    project: "@mastra/playground-ui"
+    notes: |
+      Interactive web application designed to simplify the process of 
+      planning and architecting homelab infrastructure
