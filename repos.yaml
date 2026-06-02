@@ -17,7 +17,6 @@
 
 repos:
   # ── Ported from upstream millionco/react-doctor leaderboard-entries.ts ────────
-
   - slug: tldraw
     name: tldraw
     githubUrl: https://github.com/tldraw/tldraw
@@ -186,3 +185,7 @@ repos:
     notes: |
       Mastra's React UI library — the playground-ui package ships the
       actual components rendered in the Mastra dev playground.
+   - slug: win11react
+   name: win11react
+   githubUrl: https://github.com/blueedgetechno/win11React
+   project: win11react
